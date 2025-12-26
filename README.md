@@ -1,7 +1,6 @@
 # Hello 👋 I'm Paarth Malhotra
 
 <br>
-<br>
 
 ## Introduction
 - 🎓 Student at Netaji Subhas University of Technology (NSUT), Delhi  
