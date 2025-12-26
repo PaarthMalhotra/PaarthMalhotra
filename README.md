@@ -1,12 +1,9 @@
 # Hello 👋 I'm Paarth Malhotra
 
-<br>
-
-## Introduction
 - 🎓 Student at Netaji Subhas University of Technology (NSUT), Delhi  
 - 🐍 Python Developer | 🌐 Web Development Enthusiast  
 
----
+<br>
 
 ## Skills
 - 🐍 Python
