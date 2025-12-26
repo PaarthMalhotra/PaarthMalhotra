@@ -1,4 +1,39 @@
-## Hi there 👋
+# Hello 👋 I'm Paarth Malhotra
+
+<br>
+<br>
+
+## Introduction
+- 🎓 Student at Netaji Subhas University of Technology (NSUT), Delhi  
+- 🐍 Python Developer | 🌐 Web Development Enthusiast  
+
+---
+
+## Skills
+- 🐍 Python
+- 🌐 HTML, CSS, JavaScript
+- 🧰 Git & GitHub
+
+---
+
+## Currently Learning
+- 📘 Exploring Python frameworks
+- 🌍 Web development fundamentals
+- 🧠 Introduction to Data Structures & Algorithms (DSA)
+
+---
+
+## Goals
+- 🎯 Build strong foundations in software engineering
+- 🛠️ Improve coding skills through real projects
+- 🤝 Contribute to open source projects
+- 🌱 Learn and grow as a developer
+
+---
+
+## Contact
+- 📧 Email: paarth513@gmail.com
+
 
 <!--
 **PaarthMalhotra/PaarthMalhotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
