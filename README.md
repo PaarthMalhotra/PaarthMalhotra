@@ -7,7 +7,7 @@
 
 ## Skills
 - 🐍 Python
-- 🌐 HTML, CSS, JavaScript
+- 🌐 MERN
 - 🧰 Git & GitHub
 
 ---
